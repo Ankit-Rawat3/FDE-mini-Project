@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  airflow-webserver:
+    image: apache/airflow:2.8.1-python3.10
+    environment:
+      - AIRFLOW__CORE__EXECUTOR=SequentialExecutor
+      - AIRFLOW__CORE__LOAD_EXAMPLES=False
+    volumes:
+      # Mounts your local project root directly into the container workspace
+      - ./:/usr/local/airflow/
+    ports:
+      - "8080:8080"
+    command: webserver
+
+  airflow-scheduler:
+    image: apache/airflow:2.8.1-python3.10
+    volumes:
+      - ./:/usr/local/airflow/
+    command: scheduler

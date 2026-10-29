@@ -1,0 +1,31 @@
+name,company,company_size,industry,source,last_interaction_date
+Alice Chen,CloudScale AI,50,SaaS,Inbound Demo Request,2026-04-10
+Bob Jones,RetailInc,250,Retail,Content Download,2026-03-15
+Carol Danvers,FinTech Corp,1200,FinTech,Referral,2026-04-20
+David Miller,LogiTrans,800,Logistics,Webinar Attendee,2026-02-11
+Eva Green,CyberGuard,150,Cybersecurity,Sales Call,2026-04-01
+Lead 6,Company 6 Inc,120,Healthcare,Content Download,2026-03-06
+Lead 7,Company 7 Inc,6000,Manufacturing,Sales Call,2026-03-07
+Lead 8,Company 8 Inc,160,Finance,Inbound Demo Request,2026-03-08
+Lead 9,Company 9 Inc,6000,EdTech,Referral,2026-03-09
+Lead 10,Company 10 Inc,200,SaaS,Content Download,2026-03-10
+Lead 11,Company 11 Inc,6000,Healthcare,Sales Call,2026-03-11
+Lead 12,Company 12 Inc,240,Manufacturing,Inbound Demo Request,2026-03-12
+Lead 13,Company 13 Inc,6000,Finance,Referral,2026-03-13
+Lead 14,Company 14 Inc,280,EdTech,Content Download,2026-03-14
+Lead 15,Company 15 Inc,6000,SaaS,Sales Call,2026-03-15
+Lead 16,Company 16 Inc,320,Healthcare,Inbound Demo Request,2026-03-16
+Lead 17,Company 17 Inc,6000,Manufacturing,Referral,2026-03-17
+Lead 18,Company 18 Inc,360,Finance,Content Download,2026-03-18
+Lead 19,Company 19 Inc,6000,EdTech,Sales Call,2026-03-19
+Lead 20,Company 20 Inc,400,SaaS,Inbound Demo Request,2026-03-20
+Lead 21,Company 21 Inc,6000,Healthcare,Referral,2026-03-21
+Lead 22,Company 22 Inc,440,Manufacturing,Content Download,2026-03-22
+Lead 23,Company 23 Inc,6000,Finance,Sales Call,2026-03-23
+Lead 24,Company 24 Inc,480,EdTech,Inbound Demo Request,2026-03-24
+Lead 25,Company 25 Inc,6000,SaaS,Referral,2026-03-25
+Lead 26,Company 26 Inc,520,Healthcare,Content Download,2026-03-26
+Lead 27,Company 27 Inc,6000,Manufacturing,Sales Call,2026-03-27
+Lead 28,Company 28 Inc,560,Finance,Inbound Demo Request,2026-03-01
+Lead 29,Company 29 Inc,6000,EdTech,Referral,2026-03-01
+Lead 30,Company 30 Inc,600,SaaS,Content Download,2026-03-02
